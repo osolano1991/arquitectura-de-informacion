@@ -1,0 +1,4 @@
+baseURL = "hugo-oscar-example1.netlify.app"
+languageCode = "en-us"
+title = "My New Hugo Site - Oscar Solano"
+theme = "slim"
