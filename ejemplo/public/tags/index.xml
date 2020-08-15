@@ -1,105 +1,14 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-   <title>Tags on Tarea 1 - Oscar Solano Mora</title>
-   <link>hugo-oscar-example1.netlify.app/tags/</link>
-   <description>Recent content in Tags on Tarea 1 - Oscar Solano Mora</description>
-   <generator>Hugo -- gohugo.io</generator>
-   <language>en-us</language>
-   
-       <atom:link href="hugo-oscar-example1.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-   
-   
-     <item>
-       <title>Familia</title>
-       <link>hugo-oscar-example1.netlify.app/posts/familia/</link>
-       <pubDate>Fri, 14 Aug 2020 16:42:57 -0600</pubDate>
-       
-       <guid>hugo-oscar-example1.netlify.app/posts/familia/</guid>
-       <description>&lt;h1 id=&#34;familia-durante-la-pandemia&#34;&gt;Familia durante la pandemia&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.etapainfantil.com/wp-content/uploads/2018/11/Poemas-valor-familia-700x402.jpg&#34; alt=&#34;Familia&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Esta situacion si bien es cierto es una situacion lamentable para el pais y el mundo por las diferentes problemas y afectaciones que ha traido a la economia de las familias costarricenses, en mi caso me ha permitdo reflexionar sobre el antes de la pandemia y el momento actual que se esta viviendo, ya que por medio del estar en la casa, ha permitido unir mas la familia, conversar entre el nucleo familiar, contar historias y vivencias de cada uno, asi como pedir consejos incluso generar ideas para futuros proyectos que involucren a cada uno ademas de tener mucha mas relacion de la que se tenia anteriormente, permitiendo que se una y fortalezca la familia (hermanos y padres e incluso abuelos).&lt;/p&gt;
-&lt;p&gt;Me parece un aspecto muy positivo ya que una de las cosas mas importantes en la vida es pasar tiempo de calidad con la familia que son las verdaderas personas que nos acompanan en los buenos y malos momentos y siempre estan ahi para cuando los y las necesitemos.&lt;/p&gt;
-&lt;p&gt;Por lo tanto me queda claro que teniendo la esperanza que salgamos adelante enfrentando dicha situacion, seamos una gran familia mas uniday concientes que se debe de poner siempre de prioridad y pasar tiempo de calidad con ellos a pesar de las actividades o labores que cada uno tenga ya que como mencione anteriormente la familia es el pilar en el desarrollo de cada una de las personas y si se crece en un ambiente familiar adecuado, cada uno de los que la integran seran personas de bien que ayudaran y apoyaran a las demas personas que lo redean.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.desdemitrinchera.com/wordpress/wp-content/uploads/2018/07/dia-de-la-familia-675.jpg&#34; alt=&#34;Familia&#34;&gt;&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Social</title>
-       <link>hugo-oscar-example1.netlify.app/posts/social/</link>
-       <pubDate>Thu, 13 Aug 2020 15:59:14 -0600</pubDate>
-       
-       <guid>hugo-oscar-example1.netlify.app/posts/social/</guid>
-       <description>&lt;h1 id=&#34;vida-social-durante-la-pandemia&#34;&gt;Vida social durante la pandemia&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://sonpareja.com/wp-content/2012/11/como-disfrutar-mas-de-la-vida-social.jpg&#34; alt=&#34;social&#34;&gt;&lt;/p&gt;
-&lt;p&gt;En el aspecto social es donde la pandemia a generado una gran afectación, ya que es de conocimiento y acatacion casi que obligatoria que debemos estar en cada una de nuestras casas, esto ocasiona que el contacto con nuestras familias, compañeros de trabajo y amigos sea nulo, y solo se pueda compartir de manera virtual, si bien la tecnologia nos brinda esa oportunidad de no aislarnos del todo de las personas cercanas no nos permite tener ese contacto y esa cercania como se tenia anteriormente, en mi caso he dejado de compartir con familiares y amigos durante paseos, deportes y actividades recreativas que las personas necesitan para vivir mas integralmente y tener una mente sana y renovada para enfrentar los quehaceres cotidianos que en esta situacion crece el estres ocasionado algunos problemas emocioanles.&lt;/p&gt;
-&lt;p&gt;Pero no todo es malo, he aprendido a reflexionar y valorar cada una de las actividades que antes realizaba y ahora no, es por ello que cuando todo esto se &amp;ldquo;normalice&amp;rdquo; seré una mejor persona que le pueda dar el valor correspondiente a cada una de las personas y actividades que me encuentre y comparta en el camino. Todo esto ha sido como una renovacion a nuestra mentalidad para saber que estabamos o estamos haciendo bien para nosotros mismos y para la sociedad.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/adiccion_RRSS_mult_1_res/Adiccion_RRSS_746x419.jpg&#34; alt=&#34;vida&#34;&gt;&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Salud</title>
-       <link>hugo-oscar-example1.netlify.app/posts/salud/</link>
-       <pubDate>Wed, 12 Aug 2020 15:23:39 -0600</pubDate>
-       
-       <guid>hugo-oscar-example1.netlify.app/posts/salud/</guid>
-       <description>&lt;h1 id=&#34;salud-durante-la-pandemia&#34;&gt;Salud durante la pandemia&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://ichef.bbci.co.uk/news/ws/304/amz/worldservice/live/assets/images/2014/10/21/141021154355_ejercicio_dia_304x171_thinkstock.jpg&#34; alt=&#34;ejercicio&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Mi vida en cuanto a materias de salud, ha sido un poco descuidada, pero la pandemia me ha hecho reflexionar sobre las actividades que estaba realizando y que a futuro pueden traerme grandes y graves consecuencias, es por ello que un día decidí alimentarme mas saludablemente y realizar actividad física mas constantemente ya que soy un apasionando por el fútbol y por la situación es imposible realizarlo además que solo lo practicaba los domingos y en ocasiones no me sentía con las condiciones para realizar el deporte de la manera que yo esperaba y quería, por lo que llevo ya varios meses practicando deporte, comiendo mas controladamente y eliminando comidas nosivas para la salud.&lt;/p&gt;
-&lt;p&gt;Esto me ha permitido ser una persona con una autoestima mas alta, he logrado mejora mi físico, sentirme mejor, tener más energía para realizar las diferentes labores, por lo que si bien es díficil dar ese paso y tener esa disciplina en poco tiempo ya he visto resultados, ha pesar que aveces quisiera no continuar por lo dificil que es ya que actualmente trabajo y estudio, por lo que se complican mas lo horarios y el cansancio aumenta pero la perseverancia es lo que al final uno puede ver los resultados de esa constancia y sacrificio.&lt;/p&gt;
-&lt;p&gt;Por lo tanto, apesar que por tener una vida mas sendentaria por la pandemia he logrado evadir esos obstáculos y poder continuar con mis objetivos para ser una mejor persona saludablemente y asi sentirme mejor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/05/03/Recortada/img_msanoja_20160504-144748_imagenes_lv_getty_gettyimages-546127037_2-k7r-U401526493710pEB-992x558@LaVanguardia-Web.jpg&#34; alt=&#34;salud&#34;&gt;&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Trabajo</title>
-       <link>hugo-oscar-example1.netlify.app/posts/trabajo/</link>
-       <pubDate>Mon, 10 Aug 2020 22:10:47 -0600</pubDate>
-       
-       <guid>hugo-oscar-example1.netlify.app/posts/trabajo/</guid>
-       <description>&lt;h1 id=&#34;trabajo-durante-la-pandemia&#34;&gt;Trabajo durante la pandemia&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.panoramadigital.co.cr/wp-content/uploads/2019/08/teletrabajo.jpg&#34; alt=&#34;Teletrabajo&#34;&gt;&lt;/p&gt;
-&lt;p&gt;A pesar de que mi trabajo por su naturaleza era un trabajo del 90% en casa, mediante la pandemia que atraviesa el pais y el mundo ha llegado al 100%, donde se ha tenido que implementar tecnicas para trabajar en equipo para que el desarrollo de la empresa siga su crecimiento a pesar de la crisis.&lt;/p&gt;
-&lt;p&gt;Es importante mencionar que por la naturaleza del trabajo al ser un trabajo que involucra la tecnología y que nuestros trabajos son en línea, muchas empresas se han acercado buscando soluciones para migrar sus sistemas a la web, además de querer exponerse y darse a conocer mediante las diferentes plataformas tecnológicas, por todo esto la empresa mas bien ha sido bendecida con mas trabajo en donde se les ayuda a las diferentes empresas a satisfacer sus necesidades con respecto a la pandemia ocasionando que nuestra empresa crezca aun más y dandonos a conocer mas en el mercado laboral.&lt;/p&gt;
-&lt;p&gt;Por consiguiente la empresa ha tenido iniciativas de crear sistemas y ayudas de bien social para apoyar a las personas que más lo necesitan en la presente situación que estamos viviendo. Ademas de crear facilidades de pago para las empresas que asi lo requieran.&lt;/p&gt;
-&lt;p&gt;Cabe mencionar que a nivel personal el teletrabajo a traido grandes beneficios tales como:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Menos estres.&lt;/li&gt;
-&lt;li&gt;Equilibrio entre vida personal y laboral.&lt;/li&gt;
-&lt;li&gt;Mejor flexibilidad de horarios.&lt;/li&gt;
-&lt;li&gt;Se reducen los gastos considerablemente (transporte, alimentacion, alquiler de casa).&lt;/li&gt;
-&lt;li&gt;Se mejora la producitvidad en el trabajo al estar mas descansado por el ahorro en los tiempos de traslado.&lt;/li&gt;
-&lt;li&gt;Los objetivos se cumplen con mayor rapidez.&lt;/li&gt;
-&lt;li&gt;Motivacion en la utilziacion de nuevas tecnologias.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Asi como se tiene sus ventajas se pueden presentar grandes desventajas que afectan el trabajar desde nuestro hogar como lo son las siguientes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Puede disminuir el rendimiento laboral al no estar tan supervisado como si lo estuviera en la oficina.&lt;/li&gt;
-&lt;li&gt;Se puede incurrir en horas extras de trabajo mezclando los momentos para compartir con la familia.&lt;/li&gt;
-&lt;li&gt;Mas gastos en electricidad, aire acondicionado, etc.&lt;/li&gt;
-&lt;li&gt;Cambio en la cultura organizacional.&lt;/li&gt;
-&lt;li&gt;Se puede reducir el aprendizaje.&lt;/li&gt;
-&lt;li&gt;Para el empleador se dificulta mas controlar el empleado.&lt;/li&gt;
-&lt;li&gt;Se elimina el ambiente laboral.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://blogs.imf-formacion.com/blog/prevencion-riesgos-laborales/wp-content/uploads/2016/04/TELETRABAJO.jpg&#34; alt=&#34;Teletrabajo&#34;&gt;&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Inicio</title>
-       <link>hugo-oscar-example1.netlify.app/posts/inicio/</link>
-       <pubDate>Fri, 07 Aug 2020 20:08:27 -0600</pubDate>
-       
-       <guid>hugo-oscar-example1.netlify.app/posts/inicio/</guid>
-       <description>&lt;h1 id=&#34;mi-vida-durante-la-pandemia&#34;&gt;Mi vida durante la pandemia&lt;/h1&gt;
-&lt;p&gt;Mediante las siguientes entradas, trataré de explicar mi forma de ver la situación que atraviesa el país con la pandemia del COVID-19 y de como he sobrellevado de forma que pueda salir fortalecido, cuidandome y buscando lo mejor para mi, mi familia y las personas que me rodean.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ca-times.brightspotcdn.com/dims4/default/5b16ee1/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2F9e%2Fd08d53f84a44880fd6c796f53441%2Fla-hm-kara-franklin-la-affairs.jpg&#34; alt=&#34;vidapandemia&#34;&gt;&lt;/p&gt;
-</description>
-     </item>
-   
- </channel>
+  <channel>
+    <title>Tags on Tarea 1 - Oscar Solano Mora</title>
+    <link>hugo-oscar-example1.netlify.app/tags/</link>
+    <description>Recent content in Tags on Tarea 1 - Oscar Solano Mora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="hugo-oscar-example1.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>
