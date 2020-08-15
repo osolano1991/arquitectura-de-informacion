@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>hugo-oscar-example1.netlify.app/posts/familia/</loc>
+    <lastmod>2020-08-14T16:42:57-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>hugo-oscar-example1.netlify.app/posts/</loc>
-    <lastmod>2020-08-13T15:59:14-06:00</lastmod>
+    <lastmod>2020-08-14T16:42:57-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>hugo-oscar-example1.netlify.app/</loc>
+    <lastmod>2020-08-14T16:42:57-06:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +23,8 @@
   </url>
   
   <url>
-    <loc>hugo-oscar-example1.netlify.app/</loc>
-    <lastmod>2020-08-13T15:59:14-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>hugo-oscar-example1.netlify.app/posts/familia/</loc>
-    <lastmod>2020-08-11T22:23:35-06:00</lastmod>
+    <loc>hugo-oscar-example1.netlify.app/posts/salud/</loc>
+    <lastmod>2020-08-12T15:23:39-06:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>hugo-oscar-example1.netlify.app/posts/inicio/</loc>
-    <lastmod>2020-08-07T20:10:27-06:00</lastmod>
+    <lastmod>2020-08-07T20:08:27-06:00</lastmod>
   </url>
   
   <url>
