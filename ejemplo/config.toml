@@ -1,4 +1,4 @@
 baseURL = "hugo-oscar-example1.netlify.app"
 languageCode = "en-us"
 title = "Tarea 1 - Oscar Solano Mora"
-theme = "slim"
+theme = "kiera"
