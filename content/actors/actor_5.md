@@ -1,17 +1,13 @@
 ---
 actorId: actor_5
-title: Vin Diesel
+title: Matt Damon
 nationality: Estadounidense
-birth: 1967   
-awards: MTV Movie Award for Best On-Screen Duo 
+birth: 1970   
+awards: Mejor guion original 1997 Good Will Hunting
 fields: []
 moviesId: [movie_6]
 ---
 
-Mark Sinclair Vincent (Alameda, California; 18 de julio de 1967), más conocido por el nombre artístico de Vin Diesel, es un actor, productor y director de cine estadounidense.2​3​
+Matt Damon nació en Cambridge (Massachusetts), hijo de Kent Telfer Damon, agente inmobiliario y excorredor de bolsa, y de Nancy Carlsson-Paige, maestra infantil y profesora en la Universidad de Lesley,2​3​4​ y tiene un hermano Kyle que es escultor y artista.3​5​
 
-Conocido por la interpretación de Dominic Toretto en la saga cinematográfica The Fast and the Furious y por el papel de Richard B. Riddick en la trilogía Las Crónicas de Riddick, también productor de las secuelas de ambas franquicias.
-
-Diesel también ha protagonizado películas como xXx y xXx: Return of Xander Cage (2002 y 2017); A Man Apart (2003); The Pacifier (2005); el 1492 (2006); Find me Guilty (2006); y El último cazador de brujas (2015). Su trabajo también incluye la actuación de voz en off en las películas El gigante de hierro (1999), los videojuegos spin-offs de la franquicia Las Crónicas de Riddick, y el superhéroe Groot en Guardianes de la Galaxia o en otras películas del Universo Cinematográfico de Marvel. También escribió, dirigió, produjo y protagonizó los cortometrajes Multi-Facial (1995), Strays (1997) y Los chinneses (2004).
-
-Diesel es el fundador de las empresas de producción cinematográfica One Race Films, Racetrack Registros y la empresa de videojuegos Tigon Studios.
+Estudió en la Cambridge Rindge and Latin School en Cambridge, donde entabló amistad con un vecino y también alumno de esta escuela, Ben Affleck, con quien compartiría el mismo anhelo de convertirse en actor cinematográfico.6​ Finalmente juntos protagonizaron y escribieron el guion de la película Good Will Hunting con la que ganaron un premio Óscar al mejor guion original. Se graduó en 1988 y empezó a estudiar en la Universidad de Harvard, pero no llegó a finalizar debido a que comenzó con sus primeros trabajos.
