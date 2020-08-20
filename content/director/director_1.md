@@ -1,9 +1,9 @@
 ---
 directorId: director_1
-title: 
-nationality: 
-birth:
-occupation: 
-awards:
+title: Peter Jackson
+nationality: Neozelandés
+birth: 1961 
+occupation: Director, productor, guionista
+awards: Mejor director
 movieId: [movie_1]
 ---
