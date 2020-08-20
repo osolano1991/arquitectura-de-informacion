@@ -1,9 +1,9 @@
 ---
 actorId: actor_1
-title: 
-nationality:
-birth:
-awards:
+title: asd
+nationality: asd
+birth: asa
+awards: dd
 fields: []
-movieId: []
+movieId: [movie_1]
 ---
