@@ -1,6 +1,6 @@
 ---
 movieId: movie_7
-title: Transformers: la era de la extinción
+title: Transformers la era de la extinción
 gender: Acción, Ciencia ficción
 year: 2014
 language: Inglés
