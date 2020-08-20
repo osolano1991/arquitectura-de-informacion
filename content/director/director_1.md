@@ -5,5 +5,5 @@ nationality:
 birth:
 occupation: 
 awards:
-moviesId: []
+movieId: []
 ---
