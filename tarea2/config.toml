@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Site Movies - Oscar Solano Mora"
+theme = "oscar"
