@@ -1,5 +1,5 @@
 ---
-directorId: director_1
+directorId: director_2
 title: Joss Whedon
 nationality: Estadounidense
 birth: 1964  
