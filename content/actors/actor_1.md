@@ -1,7 +1,7 @@
 ---
 actorId: actor_1
-title: asd
-nationality: asd
+title: Martin Freeman
+nationality: Británica
 birth: asa
 awards: dd
 fields: []
