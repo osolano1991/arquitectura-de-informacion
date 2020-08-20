@@ -5,5 +5,5 @@ nationality: Neozelandés
 birth: 1961 
 occupation: Director, productor, guionista
 awards: Mejor director
-movieId: [movie_1]
+moviesId: [movie_1]
 ---
