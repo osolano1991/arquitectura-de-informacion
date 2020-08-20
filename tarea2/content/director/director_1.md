@@ -1,0 +1,9 @@
+---
+directorId: director_1
+title: 
+nationality: 
+birth:
+occupation: 
+awards:
+moviesId: []
+---
