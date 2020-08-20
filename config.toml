@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hugo-oscar-tarea2.netlify.app"
 languageCode = "en-us"
 title = "Site Movies - Oscar Solano Mora"
 theme = "oscar"
