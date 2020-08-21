@@ -4,7 +4,7 @@ title: Matt Damon
 nationality: Estadounidense
 birth: 1970   
 awards: Mejor guion original 1997 Good Will Hunting
-fields: []
+fields: ["Jason Burne"]
 moviesId: [movie_6]
 ---
 

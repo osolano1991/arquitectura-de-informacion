@@ -4,7 +4,7 @@ title: Robert Downey Jr.
 nationality: Estadounidense
 birth: 1965   
 awards: Estrella Masculina Favorita de Acción
-fields: []
+fields: ["Sherlock","Iron Man"]
 moviesId: [movie_3,movie_4]
 ---
 

@@ -4,7 +4,7 @@ title: Mark Wahlberg
 nationality: Estadounidense
 birth: 1971   
 awards: Mejor actor de acción Lone Survivor	
-fields: []
+fields: ["Transformers","Director","Francotirador"]
 moviesId: [movie_7]
 ---
 

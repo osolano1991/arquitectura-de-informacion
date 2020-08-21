@@ -4,7 +4,7 @@ title: Martin Freeman
 nationality: Británica
 birth: 1971 
 awards: Mejor actor de reparto en miniserie o telefilme 2014 Sherlock
-fields: ["Test"]
+fields: ["Miniserie", "Actor"]
 moviesId: [movie_1]
 ---
 

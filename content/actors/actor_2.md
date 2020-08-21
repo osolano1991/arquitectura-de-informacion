@@ -4,7 +4,7 @@ title: Elijah Wood
 nationality: Estadounidense
 birth: 1981  
 awards: Mejor reparto 2003 El Señor de los Anillos el retorno del Rey
-fields: []
+fields: ["Anillos","Frodo"]
 moviesId: [movie_2]
 ---
 

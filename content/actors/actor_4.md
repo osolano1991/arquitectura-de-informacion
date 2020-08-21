@@ -4,7 +4,7 @@ title: Vin Diesel
 nationality: Estadounidense
 birth: 1967   
 awards: MTV Movie Award for Best On-Screen Duo 
-fields: []
+fields: ["Fast","Triple X"]
 moviesId: [movie_5]
 ---
 
