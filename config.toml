@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Proyecto 1 - Oscar - Adan"
+theme = "slim"
