@@ -3,13 +3,24 @@
 
 <h6>Actor's details</h6>
 <table>
-<tr><td><b>ID</b><td><td>{{ .Params.actorId}}</td></tr>
-<tr><td><b>Nationality</b><td><td>{{ .Params.nationality}}</td></tr>
-<tr><td><b>Birth</b><td><td>{{ .Params.birth}}</td></tr>
-<tr><td><b>Awards</b><td><td>{{ .Params.awards}}</td></tr>
-<tr><td><b>Fields</b><td><td>
-  {{ range .Params.fields }} {{ . }} | {{end}}
-</td></tr>
+  <thead>
+    <tr>
+    <th>Rank</th>
+    <th>Title</th>
+    <th>Genre</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ $url := "IMDB-Movie-Data.csv" }}
+  {{ $sep := "," }}
+  {{ range $i, $r := getCSV $sep $url }}
+    <tr>
+      <td>{{ index $r 0 }}</td>
+      <td>{{ index $r 1 }}</td>
+      <td>{{ index $r 2 }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
 </table>
 
 <h6>Movies</H6>
