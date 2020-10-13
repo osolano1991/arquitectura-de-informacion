@@ -1,8 +1,8 @@
 ---
-baseurl: "loaclhost"
+baseurl: "https://proyecto1-oscar-adan.netlify.app/"
 disablePathToLower: true
 languageCode: en-gb
-title: "MOVIES"
+title: "Proyecto 1- Oscar Solano - Adan Rivera"
 publishdir: ./_output/hugo-stage-1/
 pluralizelisttitles: "false"
 footnoteReturnLinkContents: "^"
