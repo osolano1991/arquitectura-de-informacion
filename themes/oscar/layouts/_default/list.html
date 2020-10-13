@@ -4,7 +4,8 @@
 <ul>
 {{ range .Site.Data }}
 <li>
-  <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
+ 
+  <a  class="title" href="#{{ .Title | urlize | lower }}">{{ .Title | markdownify }}</a>
   </a>
 </li>
 {{ end }}
