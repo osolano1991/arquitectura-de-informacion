@@ -4,8 +4,7 @@
 <ul>
 {{ range .Site.Data }}
 <li>
-  
-  {{.URL}} <br>
+  <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
   </a>
 </li>
 {{ end }}
