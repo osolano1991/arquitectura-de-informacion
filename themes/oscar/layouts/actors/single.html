@@ -15,7 +15,7 @@
 <h6>Movies</H6>
     <ul>
       {{ range .Params.moviesId }}
-         {{ $t := $.Site.GetPage .}}
+         {{ $t := $.Site.data.Title .}}
          <li><a href="/movies/{{ .}}">{{ $t.Title }}</a></li>
       {{ end }}
     </ul>
