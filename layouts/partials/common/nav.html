@@ -1,0 +1,39 @@
+{{ if .IsHome }}
+  <nav class="navbar navbar-default navbar-fixed-top navbar-home">
+    <div class="container">
+
+      <div class="collapse navbar-collapse navbar-right">
+        <ul class="nav navbar-nav" id="navmenu">
+
+          <li data-menuanchor="about"><a href="#about"> About </a></li>
+     <li data-menuanchor="about"><a href="/movies"> Movies </a></li>
+
+
+          <li data-menuanchor="contact"><a href="#contact"> Contact </a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+{{ else }}
+  {{ if and (or ( eq .Section "bookshelf" ) ( eq .Section "music" )) ( .IsPage ) }}
+    <nav class="navbar navbar-default navbar-fixed-top">
+  {{ else }}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+  {{ end }}
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse" aria-expanded="false">
+          {{ if and (or ( eq .Section "bookshelf" ) ( eq .Section "music" )) ( .IsPage ) }}
+              <i class="fa fa-bars"></i>
+          {{ else }}
+            <i class="fa fa-bars fa-inverse"></i>
+          {{ end }}
+        </button>
+    
+      </div>
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+
+      </div>
+    </div>
+  </nav>
+{{ end }}

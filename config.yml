@@ -1,0 +1,29 @@
+---
+baseurl: "loaclhost"
+disablePathToLower: true
+languageCode: en-gb
+title: "MOVIES"
+publishdir: ./_output/hugo-stage-1/
+pluralizelisttitles: "false"
+footnoteReturnLinkContents: "^"
+
+params:
+
+taxonomies:
+  tag: "tag"
+  category: "categories"
+
+ignoreFiles:
+  - /_output
+  - /_public
+  - /_img
+  - /_less
+  - /.git
+
+MetaDataFormat: "yaml"
+pygmentsuseclasses: true
+
+blackfriday:
+  plainIDAnchors: true
+  extensions:
+  - hardLineBreak

@@ -1,0 +1,49 @@
+{{ partial "common/head.html" . }}
+{{ partial "common/nav.html" . }}
+{{ partial "common/header.html" . }}
+  <section id="{{ lower .Title | urlize }}" class="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          {{ .Content }}
+          <h4 id="toc">Table of Contents</h4>
+          <nav class="toc">
+            <ul>
+            {{ range .Site.Data.movies.everything }}
+              <li><a href="#{{ .Rank | urlize | lower }}">{{ .name | markdownify }}</a></li>
+              <ul>
+                {{ range .sources }}
+                <li><a href="#{{ .Title | urlize | lower }}">{{.Rank | markdownify }} - {{.Title | markdownify }}</a></li>
+                {{ end }}
+              </ul>
+            {{ end }}
+            </ul>
+          </nav>
+ {{ range .Site.Data.movies.everything }}
+            <hr />
+       
+            <p>{{ .Rank | markdownify }}</p>
+			
+            {{ range .sources }}
+              <h4 class="book-name" id="{{ .Title | urlize | lower }}">{{.Rank | markdownify }} - {{ .Title | markdownify }}</h4>
+            
+                <blockquote>
+                  <p>{{ .Description | markdownify }}</p>
+                  {{ if .Actors }}<p><em>Actors: {{ .Actors | markdownify }}</em></p>{{ end }}
+				  {{ if .Year }}<p><em>Year:{{ .Year | markdownify }}</em></p>{{ end }}
+				  {{ if .Rating }}<p><em>Rating: {{ .Rating | markdownify }}</em></p>{{ end }}
+                </blockquote>
+                Director:{{ if .Director }}<p>{{ .Director | markdownify }}</p>{{ end }}
+                <p><br /></p>
+
+          {{ end }}
+          <p><a href="#toc"><sup>[table of contents]</sup></a></p>
+          <p><br /></p>
+          {{ end }}
+          <p class="meta"></p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+{{ partial "common/footer.html" . }}
