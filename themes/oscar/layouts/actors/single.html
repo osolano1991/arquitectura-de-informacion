@@ -8,7 +8,12 @@
 <tr><td><b>Birth</b><td><td>{{ .Params.awards}}</td></tr>
 <tr><td><b>Awards</b><td><td>{{ .Params.awards}}</td></tr>
 <tr><td><b>Fields</b><td><td>
-  {{ range .Site.Data }} {{ . }} | {{end}}
+  <ul>
+            {{ range .Site.Data }}
+              <li><a href="#{{ .Director }}">{{ .Director }}</a></li>
+              
+            {{ end }}
+            </ul>
 </td></tr>
 </table>
 
