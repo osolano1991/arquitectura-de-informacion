@@ -3,30 +3,19 @@
 
 <h6>Actor's details</h6>
 <table>
-  <thead>
-    <tr>
-    <th>Rank</th>
-    <th>Title</th>
-    <th>Genre</th>
-    </tr>
-  </thead>
-  <tbody>
-  {{ $url := "IMDB-Movie-Data.csv" }}
-  {{ $sep := "," }}
-  {{ range $i, $r := getCSV $sep $url }}
-    <tr>
-      <td>{{ index $r 0 }}</td>
-      <td>{{ index $r 1 }}</td>
-      <td>{{ index $r 2 }}</td>
-    </tr>
-  {{ end }}
-  </tbody>
+<tr><td><b>ID</b><td><td>{{ .Params.Rank}}</td></tr>
+<tr><td><b>Nationality</b><td><td>{{ .Params.Genre}}</td></tr>
+<tr><td><b>Birth</b><td><td>{{ .Params.Director}}</td></tr>
+<tr><td><b>Awards</b><td><td>{{ .Params.awards}}</td></tr>
+<tr><td><b>Fields</b><td><td>
+  {{ range .Params.fields }} {{ . }} | {{end}}
+</td></tr>
 </table>
 
 <h6>Movies</H6>
     <ul>
       {{ range .Params.moviesId }}
-         {{ $t := $.Site.data.Title .}}
+         {{ $t := $.Site.GetPage .}}
          <li><a href="/movies/{{ .}}">{{ $t.Title }}</a></li>
       {{ end }}
     </ul>
