@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h4>{{ .Title }}</h4>
+{{ .Content }}
+<ul>
+{{ range .Site.Data }}
+<li>
+ 
+  <a  class="title" href="#{{ .Title | urlize | lower }}">{{ .Title | markdownify }}</a>
+  </a>
+</li>
+{{ end }}
+</ul>
+{{ end }}

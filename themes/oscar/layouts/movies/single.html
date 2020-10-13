@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h5>{{ .Title }}</h5>
+
+<h6>Movie's details</h6>
+<table>
+{{ range .Site.Data }}
+<tr><td><b>Director</b><td><td>{{ .Director }}</td></tr>
+<tr><td><b>Genre</b><td><td>{{ .Genre}}</td></tr>
+<tr><td><b>Year</b><td><td>{{ .Year}}</td></tr>
+<tr><td><b>Actors</b><td><td>{{ .Actors}}</td></tr>
+{{ end }}
+</table>
+
+<div>Director of {{.Site.Data.movie1.Director}}: <p>{{ index .Site.Data.movie1 "Director" | markdownify }}</p></div>
+
+{{ .Content }}
+{{ end }}
