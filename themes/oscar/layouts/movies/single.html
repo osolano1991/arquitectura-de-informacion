@@ -10,9 +10,10 @@
 <tr><td><b>Director</b><td><td>{{ .Params.Director}}</td></tr>
 {{ $csv := "a;b;c" | transform.Unmarshal (dict "delimiter" ";") }}
 </table>
-{{ $greetings := "hello = \"Hello Hugo\"" | resources.FromString "data/IMDB-Movie-Data.csv" | transform.Unmarshal }}
+{{ $csv := "data/IMDB-Movie-Data.csv" | transform.Unmarshal (dict "delimiter" ";") }}
+
 <h6>Description</h6>
-{{ $greetings.hello }}
+{{ $csv.hello }}
 
 {{ .Content }}
 {{ end }}
