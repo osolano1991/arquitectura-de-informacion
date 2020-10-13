@@ -2,10 +2,9 @@
 <h4>{{ .Title }}</h4>
 {{ .Content }}
 <ul>
-{{ range .Site.Data }}
+{{ range .Pages.ByPublishDate.Reverse }}
 <li>
- 
-  <a  class="title" href="#{{ .Title | urlize | lower }}">{{ .Title | markdownify }}</a>
+  <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
   </a>
 </li>
 {{ end }}

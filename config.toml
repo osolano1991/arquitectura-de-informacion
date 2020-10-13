@@ -1,4 +1,4 @@
-baseURL = "https://proyecto1-oscar-adan.netlify.app/"
+baseURL = "https://hugo-oscar-tarea2.netlify.app"
 languageCode = "en-us"
-title = "Proyecto 1- Oscar Solano - Adan Rivera"
-
+title = "Site Movies - Oscar Solano Mora"
+theme = "oscar"
