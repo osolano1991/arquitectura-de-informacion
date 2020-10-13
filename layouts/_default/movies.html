@@ -26,15 +26,18 @@
 			
             {{ range .sources }}
               <h4 class="book-name" id="{{ .Title | urlize | lower }}">{{.Rank | markdownify }} - {{ .Title | markdownify }}</h4>
-            
-                <blockquote>
+         <blockquote>
                   <p>{{ .Description | markdownify }}</p>
                   {{ if .Actors }}<p><em>Actors: {{ .Actors | markdownify }}</em></p>{{ end }}
 				  {{ if .Year }}<p><em>Year:{{ .Year | markdownify }}</em></p>{{ end }}
 				  {{ if .Rating }}<p><em>Rating: {{ .Rating | markdownify }}</em></p>{{ end }}
+				Director:{{ if .Director }}<p>{{ .Director | markdownify }}</p>{{ end }}
+				Runtime in minutes:{{ if .Runtime }}<p>{{ .Director | markdownify }}</p>{{ end }}
+				Rating:{{ if .Director }}<p>{{ .Rating | markdownify }}</p>{{ end }}
+				Votes:{{ if .Director }}<p>{{ .Votes | markdownify }}</p>{{ end }}
+				Revenue:{{ if .Director }}<p>{{ .Revenue | markdownify }}</p>{{ end }}
+				Metascore:{{ if .Director }}<p>{{ .Metascore | markdownify }}</p>{{ end }}
                 </blockquote>
-                Director:{{ if .Director }}<p>{{ .Director | markdownify }}</p>{{ end }}
-                <p><br /></p>
 
           {{ end }}
           <p><a href="#toc"><sup>[table of contents]</sup></a></p>
