@@ -3,12 +3,12 @@
 
 <h6>Movie's details</h6>
 <table>
-{{ range .Site.Data }}
-<tr><td><b>ID</b><td><td>{{ .Director }}</td></tr>
+
+<tr><td><b>ID</b><td><td>{{ .Site.Data.Params.Director}}</td></tr>
 <tr><td><b>Nationality</b><td><td>{{ .Params.awards}}</td></tr>
 <tr><td><b>Birth</b><td><td>{{ .Params.awards}}</td></tr>
 <tr><td><b>Awards</b><td><td>{{ .Params.awards}}</td></tr>
-{{ end }}
+
 </table>
 
 <h6>Description</h6>
