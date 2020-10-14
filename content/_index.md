@@ -2,8 +2,8 @@
 title: Home Page
 ---
 
-This website offers information on movies, actors and directors.
+This website offers information on movies
 
-* [Movies information](/movies)
-* [Actor information](/actors)
-* [Directors information](/director)
+* [Order Year](/year)
+* [Order Rank](/rank)
+* [Order Title](/title)
