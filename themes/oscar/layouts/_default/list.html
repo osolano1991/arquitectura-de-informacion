@@ -2,7 +2,10 @@
 <h4>{{ .Title }}</h4>
 {{ .Content }}
 <ul>
-<!--{{ range .Pages.ByPublishDate.Reverse }}-->
+<!-- {{ range .Pages.ByPublishDate.Reverse }}-->
+<!-- {{ $pages := $pages | intersect (where .Site.RegularPages "Params.images" "!=" nil) }} -->
+
+{{ range .Pages.ByTitle }}
 <li>
   <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
   </a>
