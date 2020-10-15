@@ -1,6 +1,6 @@
 ---
 Rank: 33
-Title: X-Men: Apocalypse
+Title: X-Men Apocalypse
 Genre: "Action,Adventure,Sci-Fi"
 Description: "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan."
 Director: Bryan Singer
