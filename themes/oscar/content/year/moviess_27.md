@@ -1,6 +1,6 @@
 ---
 Rank: 27
-Title: Bahubali: The Beginning
+Title: Bahubali The Beginning
 Genre: "Action,Adventure,Drama"
 Description: "In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people."
 Director: S.S. Rajamouli
