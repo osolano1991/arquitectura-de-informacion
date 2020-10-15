@@ -1,26 +1,15 @@
 {{ define "main" }}
 <h5>{{ .Title }}</h5>
 
-<h6>Actor's details</h6>
+<h6>Movies's details</h6>
 <table>
-<tr><td><b>ID</b><td><td>{{ .Params.actorId}}</td></tr>
-<tr><td><b>Nationality</b><td><td>{{ .Params.nationality}}</td></tr>
-<tr><td><b>Birth</b><td><td>{{ .Params.birth}}</td></tr>
-<tr><td><b>Awards</b><td><td>{{ .Params.awards}}</td></tr>
-<tr><td><b>Fields</b><td><td>
-  {{ range .Params.fields }} {{ . }} | {{end}}
-</td></tr>
-</table>
+   <tr><td><b>Rank</b><td><td>{{ .Params.Rank}}</td></tr>
+	<tr><td><b>Title</b><td><td>{{ .Params.Title}}</td></tr>
+	<tr><td><b>Genre</b><td><td>{{ .Params.Genre}}</td></tr>
+	<tr><td><b>Description</b><td><td>{{ .Params.Description}}</td></tr>
+	<tr><td><b>Director</b><td><td>{{ .Params.Director}}</td></tr>
+	<tr><td><b>Actors</b><td><td>{{ .Params.Actors}}</td></tr></table>
 
-<h6>Movies</H6>
-    <ul>
-      {{ range .Params.moviesId }}
-         {{ $t := $.Site.GetPage .}}
-         <li><a href="/movies/{{ .}}">{{ $t.Title }}</a></li>
-      {{ end }}
-    </ul>
-
-<h6>Biography</h6>
 
 {{ .Content }}
 {{ end }}
