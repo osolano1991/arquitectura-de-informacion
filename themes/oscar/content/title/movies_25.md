@@ -1,6 +1,6 @@
 ---
 Rank: 25
-Title: Independence Day: Resurgence
+Title: Independence Day Resurgence
 Genre: "Action,Adventure,Sci-Fi"
 Description: "Two decades after the first Independence Day invasion, Earth is faced with a new extra Solar threat. But will mankinds new space defenses be enough"
 Director: Roland Emmerich
