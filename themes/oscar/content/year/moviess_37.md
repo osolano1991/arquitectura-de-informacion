@@ -2,7 +2,7 @@
 Rank: 37
 Title: Interstellar
 Genre: "Adventure,Drama,Sci-Fi
-Description: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Description: A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.
 Director: Christopher Nolan
 Actors: "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy"
 Year: 2014
